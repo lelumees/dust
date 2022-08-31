@@ -1,0 +1,10 @@
+{
+  "name": "dust",
+  "version": "0.0.1",
+  "description": "Dust component library for React",
+  "main": "index.js",
+  "repository": "https://github.com/lelumees/dust.git",
+  "author": "Rasmus Lelumees <rasmus.lelumees@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
