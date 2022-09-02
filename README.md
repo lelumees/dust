@@ -1,2 +1,5 @@
-# dust
-Design system for web, built using React
+# Dust
+Design system for web, built using React.
+
+
+🚀 TBD!
