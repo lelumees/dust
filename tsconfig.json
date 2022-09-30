@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "isolatedModules": true,
+        "skipLibCheck": true,
+        "jsx": "react"
+    }
+}
